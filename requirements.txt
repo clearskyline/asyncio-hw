@@ -1,0 +1,5 @@
+python-dotenv
+SQLAlchemy==1.4.46
+aiohttp
+asyncpg
+more_itertools
